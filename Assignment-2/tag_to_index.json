@@ -1,0 +1,17 @@
+{
+    "<UNK>": 0,
+    "PRON": 1,
+    "AUX": 2,
+    "DET": 3,
+    "NOUN": 4,
+    "ADP": 5,
+    "PROPN": 6,
+    "VERB": 7,
+    "NUM": 8,
+    "ADJ": 9,
+    "CCONJ": 10,
+    "ADV": 11,
+    "PART": 12,
+    "INTJ": 13,
+    "SYM": 14
+}
